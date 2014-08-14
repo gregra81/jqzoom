@@ -1,0 +1,18 @@
+{
+  "name": "jq-zoom",
+  "main": "js/jquery.jqzoom-core.js",
+  "version": "1",
+  "homepage": "https://github.com/gregra81/jqzoom",
+  "authors": [
+    "Marco Renzi <renzi.mrc@gmail.com>"
+  ],
+  "description": "jQzoom Evolution Library - Javascript Image magnifier",
+  "keywords": [
+    "jquery",
+    "zoom"
+  ],
+  "license": "BSD",
+  "dependencies": {
+    "jquery": ">=1.6.0"
+  }
+}
