@@ -1,7 +1,7 @@
 {
   "name": "jq-zoom",
   "main": "js/jquery.jqzoom-core.js",
-  "version": "1",
+  "version": "1.0.1",
   "homepage": "https://github.com/gregra81/jqzoom",
   "authors": [
     "Marco Renzi <renzi.mrc@gmail.com>"
@@ -11,7 +11,7 @@
     "jquery",
     "zoom"
   ],
-  "license": "BSD",
+  "license": "BSD-3-Clause",
   "dependencies": {
     "jquery": ">=1.6.0"
   }
